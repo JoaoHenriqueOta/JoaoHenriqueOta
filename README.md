@@ -49,7 +49,7 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/JoaoHenriqueOta/JoaoHenriqueOta/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/JoaoHenriqueOta/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
